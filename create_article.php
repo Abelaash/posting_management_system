@@ -1,0 +1,11 @@
+<?php include('./cms/templates/include/header.php');?>
+<?php include('config.php');?>
+<?php include('./cms/classes/Article.php');?>
+<?php include('./cms/templates/include/bottom.php');?>
+<?php include('./cms/templates/homepage.php');?>
+<?php include('./cms/templates/archive.php');?>
+<?php include('./cms/templates/viewArticle.php');?>
+<?php include('./cms/classes/Article.php');?>
+<?php include('./cms/templates/admin/editArticle.php');?>
+<?php include('./cms/templates/admin/listArticle.php');?>
+<?php include('./cms/templates/admin/loginForm.php');?>
